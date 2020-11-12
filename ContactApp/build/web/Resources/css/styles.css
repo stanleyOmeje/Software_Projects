@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 22, 2020, 5:27:10 PM
+    Author     : IFM-COMPLIANCE
+*/
+
+body{
+    
+    background-color: #333;
+
+}
+
+table, tr, td{
+    font-family: Arial, Helvetica, Geneva, sans-serif ;
+    font-size: 18px;
+   /* background-color: aliceblue;*/
+   background-color: #ffffff;
+    border-collapse: collapse;
+   /* margin: 10px;*/
+   
+   align:center;
+   
+}
+
+tr#me{
+    color: gold;
+}
+.error{
+    color: #ff0000;
+}
+
+#men{
+  background-color: #6c2726; 
+  color: #ffffff;
+}
+
+a{
+  color: gold;
+}
+
+#men a{ 
+  color: #ffffff;
+  /*display:block;*/
+    text-decoration:none;
+   /* border:1px solid white;*/
+    color:white;
+    padding:5px;
+   /* background-color:#3caf50;*/
+    width:140px;
+    text-align:center;
+}
+
+.success{
+    /*color:#0000ff;*/
+   /* color: #4c2827;*/
+     color: burlywood;
+
+}
+
+input[type="text"]
+{
+    width:250px;
+}

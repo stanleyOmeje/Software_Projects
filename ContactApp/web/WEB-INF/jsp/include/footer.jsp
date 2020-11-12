@@ -1,0 +1,1 @@
+Copyright &copy; Prof. Stan <a href="#">Soft Tech Limited</a>
