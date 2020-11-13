@@ -1,0 +1,7 @@
+TestMain.CustomerControllers=org.springframework.stereotype.Component
+TestMain.MainTest=org.springframework.stereotype.Component
+com.stan.aops.AspectClass=org.springframework.stereotype.Component
+com.stan.controller.CustomerController=org.springframework.stereotype.Component
+com.stan.dao.CustomerDaoImp=org.springframework.stereotype.Component
+com.stan.domain.Customer=javax.persistence.Entity,javax.persistence.Table
+com.stan.service.CustomerServiceImp=org.springframework.stereotype.Component
